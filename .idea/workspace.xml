@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5a514d-377a-4aea-ab29-a196c2071364" name="Changes" comment="dzialajaca apka">
+    <list default="true" id="fa5a514d-377a-4aea-ab29-a196c2071364" name="Changes" comment="dzialajaca apka z errorem- kiedy jest timeout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pizzareceiver/applicationController/PizzaReceiverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pizzareceiver/applicationController/PizzaReceiverController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/pizzareceiver/applicationController/PizzaReceiverController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/pizzareceiver/applicationController/PizzaReceiverController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       <workItem from="1692829394601" duration="1639000" />
       <workItem from="1692897929517" duration="971000" />
       <workItem from="1692984827655" duration="5000" />
-      <workItem from="1692984998756" duration="6994000" />
+      <workItem from="1692984998756" duration="8898000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -127,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692987493987</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dzialajaca apka z errorem- kiedy jest timeout">
+      <option name="closed" value="true" />
+      <created>1693003012317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693003012317</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="dzialajaca apka" />
-    <option name="LAST_COMMIT_MESSAGE" value="dzialajaca apka" />
+    <MESSAGE value="dzialajaca apka z errorem- kiedy jest timeout" />
+    <option name="LAST_COMMIT_MESSAGE" value="dzialajaca apka z errorem- kiedy jest timeout" />
   </component>
 </project>
