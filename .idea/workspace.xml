@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5a514d-377a-4aea-ab29-a196c2071364" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="fa5a514d-377a-4aea-ab29-a196c2071364" name="Changes" comment="dzialajaca apka">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pizzareceiver/applicationController/PizzaReceiverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pizzareceiver/applicationController/PizzaReceiverController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/pizzareceiver/applicationController/PizzaReceiverController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/pizzareceiver/applicationController/PizzaReceiverController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <workItem from="1692829394601" duration="1639000" />
       <workItem from="1692897929517" duration="971000" />
       <workItem from="1692984827655" duration="5000" />
-      <workItem from="1692984998756" duration="1857000" />
+      <workItem from="1692984998756" duration="6994000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -120,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692830937278</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dzialajaca apka">
+      <option name="closed" value="true" />
+      <created>1692987493987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692987493987</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="dzialajaca apka" />
+    <option name="LAST_COMMIT_MESSAGE" value="dzialajaca apka" />
   </component>
 </project>
